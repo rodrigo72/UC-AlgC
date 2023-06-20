@@ -1,0 +1,1 @@
+int caminho (int L, int C, char *mapa[L], int ls, int cs, int lf, int cf);
